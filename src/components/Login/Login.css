@@ -9,3 +9,26 @@
     border-right: 1px solid black;
   }
 }
+
+.login-max-width {
+  margin-top: 40px;
+}
+
+.login-label {
+  font-size: 18px;
+  color: #706a6a;
+}
+
+.login-form-btn {
+  background: #eb9f43;
+  border: none;
+  font-size: 18px;
+
+  padding: 5px 15px;
+  border-radius: 4px;
+}
+
+.login-form-btn:hover {
+  /* color: #fff; */
+  background: #e0902f;
+}
