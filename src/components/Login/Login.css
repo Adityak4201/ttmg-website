@@ -1,0 +1,11 @@
+@media (min-width: 992px) {
+  .login-max-width {
+    max-width: 800px;
+  }
+}
+
+@media (min-width: 768px) {
+  .border-right {
+    border-right: 1px solid black;
+  }
+}
